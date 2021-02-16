@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.2.7](https://www.github.com/googleapis/java-dlp/compare/v2.2.6...v2.2.7) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#419](https://www.github.com/googleapis/java-dlp/issues/419)) ([f65322c](https://www.github.com/googleapis/java-dlp/commit/f65322cf1fd0572bf08b00097e354fbcae5e7c1b))
+
 ### [2.2.6](https://www.github.com/googleapis/java-dlp/compare/v2.2.5...v2.2.6) (2021-01-14)
 
 
